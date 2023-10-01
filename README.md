@@ -21,9 +21,7 @@ The datasets files (images) can be downloaded from the following links:
 
 All training, validation and testing splits can be found in `/data/` folder.
 
-By default, `custom_dataset.py` reads the CSV file and expects to have both `image` (image path) and `label` (label id)
-columns in the CSV. If you intend to extract and setup each folder in a different folder structure, please modify the 
-original CSV in `/data/` or use the `imgs_folder` parameter to setup the paths correctly. 
+By default, `custom_dataset.py` reads the CSV file and expects to have both `image` (image path) and `label` (label id) columns in the CSV. If you intend to extract and setup each folder in a different folder structure, please modify the original CSV in `/data/` or use the `imgs_folder` parameter to setup the paths correctly. 
 
 ## Fine-tuning models
 
@@ -66,7 +64,6 @@ For transferability scores and test performances on OOD datasets:
 python3 calc_transf_metrics.py --test_split isic19_ood --model resnet50 --layer fc --ckpt_path /path/to/isic19_ft_resnet50.ckpt 
 ```
 
-If you prefer to 
 
 ## Results
 
@@ -77,11 +74,7 @@ All code and data to reproduce the Fig. 3 of the paper are in `./results/` folde
 
 ## Acknowledgments 
 
-- L. Chaves is funded by Becas Santander/Unicamp – HUB
-2022, Google LARA 2021, in part by the Coordena ̧c ̃ao de Aperfei ̧coamento de
-Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001, and FAEPEX.
+- L. Chaves is funded by Becas Santander/Unicamp – HUB 2022, Google LARA 2021, in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Finance Code 001, and FAEPEX.
 - A. Bissoto is funded by FAPESP (2019/19619-7, 2022/09606-8). 
-- S. Avila is
-funded by CNPq 315231/2020-3, FAPESP 2013/08293-7, 2020/09838-0, H.IAAC,
-Google LARA 2021 and Google AIR 2022.
+- S. Avila is funded by CNPq 315231/2020-3, FAPESP 2013/08293-7, 2020/09838-0, H.IAAC, Google LARA 2021 and Google AIR 2022.
 
