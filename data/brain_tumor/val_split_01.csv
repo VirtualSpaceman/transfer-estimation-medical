@@ -1,0 +1,431 @@
+image,label
+/brain_tumor_kaggle/Training/no_tumor/image(134).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(23).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(301).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(117).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(160).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(196).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(326).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(175).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(250).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (46).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(2).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(176).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(133).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(166).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(6).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (31).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(88).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (13).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(198).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(272).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(289).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(135).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (21).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(5).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (24).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(25).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (22).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(78).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(87).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(319).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(192).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(265).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(280).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(275).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(141).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(229).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(183).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (63).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(103).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(315).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(232).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(161).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(185).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(206).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(125).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(254).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(101).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (20).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(89).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(210).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(67).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(96).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(217).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(205).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(51).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(27).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(252).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image (59).jpg,0
+/brain_tumor_kaggle/Training/no_tumor/image(193).jpg,0
+/brain_tumor_kaggle/Training/glioma_tumor/gg (608).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (268).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (695).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (589).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (38).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (237).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (217).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (550).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (166).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (732).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (500).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (371).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (32).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (332).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (763).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (519).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (409).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (504).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (762).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (634).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (369).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (577).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (598).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (302).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (610).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (751).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (179).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (546).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (265).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (34).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (297).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (386).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (41).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (678).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (415).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (194).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (548).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (219).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (168).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (240).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (430).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (419).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (133).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (117).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (23).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (132).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (348).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (411).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (719).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (284).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (351).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (400).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (330).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (556).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (137).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (760).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (312).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (457).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (43).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (174).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (256).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (759).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (582).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (611).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (315).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (725).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (183).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (547).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (659).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (229).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (345).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (509).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (151).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (135).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (731).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (615).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (92).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (73).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (125).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (817).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (85).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (280).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (210).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (522).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (746).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (376).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (775).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (671).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (674).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (13).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (766).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (299).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (185).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (329).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (155).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (435).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (624).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (372).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (287).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (212).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (474).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (527).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (427).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (19).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (515).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (465).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (783).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (711).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (664).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (463).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (68).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (248).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (545).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (259).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (462).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (510).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (118).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (289).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (471).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (175).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (473).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (646).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (334).jpg,1
+/brain_tumor_kaggle/Training/glioma_tumor/gg (822).jpg,1
+/brain_tumor_kaggle/Training/meningioma_tumor/m (137).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (124).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (160).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (52).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (157).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (174).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (150).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (80).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (158).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (13).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (30).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (156).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (87).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (131).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (15).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (187).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (185).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (145).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (10).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(116).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (45).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (101).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (67).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (33).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (115).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(71).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (166).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (76).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (51).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (57).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (64).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (35).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(13).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (122).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(75).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (205).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(7).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(64).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(193).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (52).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (102).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (56).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(162).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(184).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (119).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (208).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(169).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (68).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (60).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (62).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (7).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (171).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (134).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (106).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (191).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(61).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (74).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(82).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (188).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(96).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (40).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(33).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (132).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (36).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (62).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (119).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (13).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (50).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (48).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (216).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (24).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(46).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (73).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (242).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (90).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (42).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (7).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (145).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (80).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (7).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (86).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(178).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (112).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (92).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (74).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (78).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(80).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (68).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (148).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(31).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (190).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(65).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(49).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(43).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (127).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (43).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (215).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (74).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (5).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(4).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(201).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (180).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(133).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (137).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (31).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(128).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (130).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (21).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(23).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (77).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (18).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (198).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (63).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (63).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (113).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m2 (28).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(62).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (194).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (201).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m (172).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (94).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m1(157).jpg,2
+/brain_tumor_kaggle/Training/meningioma_tumor/m3 (100).jpg,2
+/brain_tumor_kaggle/Training/pituitary_tumor/p (355).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (649).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (559).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (249).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (459).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (199).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (164).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (786).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (224).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (337).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (530).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (716).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (644).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (326).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (725).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (85).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (745).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (211).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (73).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (92).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (25).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (552).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (97).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (62).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (103).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (516).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (243).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (398).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (801).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (447).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (383).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (573).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (338).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (93).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (192).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (344).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (255).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (79).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (439).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (422).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (753).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (89).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (433).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (315).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (257).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (582).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (689).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (4).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (134).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (43).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (55).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (223).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (765).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (659).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (534).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (218).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (513).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (151).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (204).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (54).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (693).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (616).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (87).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (405).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (265).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (285).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (323).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (517).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (256).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (250).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (510).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (416).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (273).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (132).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (825).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (504).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (568).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (752).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (379).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (245).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (26).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (195).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (506).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (393).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (271).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (32).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (242).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (129).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (109).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (496).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (704).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (699).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (400).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (322).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (238).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (30).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (553).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (676).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (675).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (328).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (474).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (723).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (755).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (470).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (733).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (318).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (503).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (179).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (39).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (808).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (96).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (737).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (499).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (413).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (563).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (123).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (626).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (569).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (473).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (240).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (809).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (61).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (67).jpg,3
+/brain_tumor_kaggle/Training/pituitary_tumor/p (580).jpg,3
